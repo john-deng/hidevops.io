@@ -13,6 +13,8 @@ Download [Hugo binary](https://gohugo.io/overview/installing/) for your OS (Wind
 
 ### Golang
 
+This is Golang example code. 
+
 ```go
 func main() {
     fmt.Println("Hello, world")
@@ -20,6 +22,8 @@ func main() {
 ```
 
 ### Java
+
+This is Java example code. 
 
 ```java
 public class Foo extends Bar {
